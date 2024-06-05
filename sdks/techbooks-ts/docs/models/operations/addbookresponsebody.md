@@ -1,0 +1,4 @@
+# AddBookResponseBody
+
+Book created successfully
+
